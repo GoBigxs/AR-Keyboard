@@ -1,4 +1,6 @@
 # VirtualKeyboard
+![image](https://github.com/GoBigxs/AR-Keyboard/assets/48315082/69f2fa84-054c-4a8f-86df-6df4768f63d4)
+
 A project for hand gesture-based virtual keyboard in AR
 GIT branch name: keyboard
 Keyboard that appears on a given surface (desktop)  
